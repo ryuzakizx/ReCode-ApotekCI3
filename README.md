@@ -2,7 +2,7 @@
 
 HANYA UNTUK PEMBELAJARAN, TIDAK DI PERJUALBELIKAN
 
-##Fitur
+#Fitur
 - Login
 - Register
 - Keranjang belanja
@@ -13,19 +13,19 @@ HANYA UNTUK PEMBELAJARAN, TIDAK DI PERJUALBELIKAN
 - Formulir kontak
 - Testimoni
 
-##Hak akses
+#Hak akses
 - Admin
 - Customer
 
-##User demo:
+#User demo:
 Untuk mencoba menggunakan toko ini, gunakan dua browser yang berbeda untuk memudahkan (Chrome atau Firefox) dan login dengan akun berikut:
 
 **Admin:**
 - Username: admin
 - Password: 12345
 
-**Customer:**
+*Customer:**
 - Username: customer
 - Password: 12345
 
-##RECODE by @kmldn
+#RECODE by @kmldn
